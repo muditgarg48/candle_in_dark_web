@@ -1,0 +1,90 @@
+[
+    {
+        "name":"Trinity College Dublin",
+        "link_names": [
+            "Trinity College Dublin Student Portal",
+            "Main Website",
+            "Academic Year Calender Structure",
+            "Previous Years' Exam papers",
+            "School of Computer Science and Statistics",
+            "Student Guide",
+            "Trinity Study",
+            "Arrival",
+            "Talk to students",
+            "IT Services",    
+            "Trinity Careers Services",
+            "Trinity Societies Club",
+            "The Library",
+            "Twitter account",
+            "YouTube channel"
+        ],
+        "links":[
+            "https://my.tcd.ie",
+            "https://tcd.ie",
+            "https://www.tcd.ie/calendar/academic-year-structure/",
+            "https://student-learning.tcd.ie/learning-resources/exams/exam-papers/",
+            "https://teaching.scss.tcd.ie/",
+            "https://www.tcd.ie/students/",
+            "https://www.tcd.ie/study/",
+            "https://www.tcd.ie/students/your-arrival-sept-2021/",
+            "https://www.tcd.ie/global/talktostudents/",
+            "https://www.tcd.ie/itservices",
+            "https://www.tcd.ie/Careers/",
+            "https://trinitysocietieshub.com/",
+            "https://www.tcd.ie/library/new-students/",
+            "https://twitter.com/tcdglobal",
+            "https://youtube.com/user/TRINITYCOLLEGEDUBLIN"
+        ],
+        "photo_link":"https://images.pexels.com/photos/5459746/pexels-photo-5459746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "Trinity Halls",
+        "link_names": [
+            "Moving In",
+            "Trinity Halls Accommodation Portal",
+            "Storage option 1 - Student Storage",
+            "Storage option 2 - Love Space"
+        ],
+        "links": [
+            "https://www.tcd.ie/accommodation/life-at-trinity/moving-in/",
+            "https://accommodation.tcd.ie/StudentBookings/",
+            "https://studentstorage.ie",
+            "https://lovespace.com/ie/dublin/"
+        ],
+        "photo_link": "https://universitytimes.ie/wp-content/uploads/2017/04/TrinityHallIvan.jpg"
+    },
+    {
+        "name":"Ireland VISA and Immigration",
+        "link_names": [
+            "Irish VISA Website",
+            "Application Decision result",
+            "Irish Immigration website",
+            "PCC Application",
+            "Things to do after arriving"
+        ],
+        "links":[
+            "https://visa.vfsglobal.com/ind/en/irl/",
+            "https://www.dfa.ie/irish-embassy/india/visas/processing-times-decisions-appeals/discoverytabbody2/",
+            "https://www.irishimmigration.ie/burgh-quay-appointments/",
+            "https://www.passportindia.gov.in/AppOnlineProject/online/pccOnlineApp",
+            "https://www.irishimmigration.ie/coming-to-study-in-ireland/before-and-after-you-arrive/what-do-i-need-to-do-after-arriving/"
+        ],
+        "photo_link":"https://images.unsplash.com/photo-1563463149242-bd378d9ab05c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+    },
+    {
+        "name":"Thapar Institute IEP Program",
+        "link_names": [
+            "IEP Official Website",
+            "Main Website",
+            "Thapar Institute Student Portal",
+            "Thapar Programs"
+        ],
+        "links":[
+            "https://iep.thapar.edu/",
+            "https://thapar.edu",
+            "https://webkiosk.thapar.edu/index.jsp",
+            "https://www.thapar.edu/programmes"
+        ],
+        "photo_link":"https://images.adsttc.com/media/images/5bf3/8f5f/08a5/e509/1100/01ce/large_jpg/-_Featured_Image.jpg?1542688591"
+    }
+]
