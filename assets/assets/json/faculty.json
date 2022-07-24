@@ -1,0 +1,87 @@
+[
+    {
+        "name":"Thapar Institute of Engineering and Technology",
+        "faculty":[
+            {
+                "name":"Placeholder name",
+                "contact_number": "+91-23452-23454",
+                "role": "IEP Program _____"
+            },
+            {
+                "name":"Placeholder name",
+                "contact_number": "+91-23452-23454",
+                "role": "Placeholder role"
+            },
+            {
+                "name":"Placeholder name",
+                "contact_number": "+91-23452-23454",
+                "role": "IEP Program _____"
+            }
+        ]
+    },
+    {
+        "name":"Trinity College Dublin",
+        "faculty":[
+            {
+                "name":"Placeholder name",
+                "contact_number": "+91-23452-23454",
+                "role": "IEP Program _____"
+            },
+            {
+                "name":"Placeholder name",
+                "contact_number": "+91-23452-23454",
+                "role": "Placeholder role"
+            },
+            {
+                "name":"Placeholder name",
+                "contact_number": "+91-23452-23454",
+                "role": "IEP Program _____"
+            },
+            {
+                "name":"Placeholder name",
+                "contact_number": "+91-23452-23454",
+                "role": "Placeholder role"
+            },
+            {
+                "name":"Placeholder name",
+                "contact_number": "+91-23452-23454",
+                "role": "IEP Program _____"
+            },
+            {
+                "name":"Placeholder name",
+                "contact_number": "+91-23452-23454",
+                "role": "Placeholder role"
+            },
+            {
+                "name":"Placeholder name",
+                "contact_number": "+91-23452-23454",
+                "role": "IEP Program _____"
+            },
+            {
+                "name":"Placeholder name",
+                "contact_number": "+91-23452-23454",
+                "role": "Placeholder role"
+            },
+            {
+                "name":"Placeholder name",
+                "contact_number": "+91-23452-23454",
+                "role": "IEP Program _____"
+            },
+            {
+                "name":"Placeholder name",
+                "contact_number": "+91-23452-23454",
+                "role": "Placeholder role"
+            },
+            {
+                "name":"Placeholder name",
+                "contact_number": "+91-23452-23454",
+                "role": "IEP Program _____"
+            },
+            {
+                "name":"Placeholder name",
+                "contact_number": "+91-23452-23454",
+                "role": "Placeholder role"
+            }
+        ]
+    }
+]
